@@ -7,5 +7,7 @@ All those files have to be in the same directory.
 
 
 input: file name with extension .bmp (ex: file.bmp)
+
 (wait about 15 seconds)
+
 output:  new file (smart_file.bmp) 
