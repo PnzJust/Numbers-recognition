@@ -6,8 +6,8 @@ This program use templates (cifra0.bmp, cifra1.bmp......cifra9.bmp) to recognize
 All those files have to be in the same directory.
 
 
-input: file name with extension .bmp (ex: file.bmp)
+# input: file name with extension .bmp (ex: file.bmp)
 
 (wait about 15 seconds)
 
-output:  new file (smart_file.bmp) 
+# output:  new file (smart_file.bmp) 
